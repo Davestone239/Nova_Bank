@@ -17,8 +17,8 @@ st_lottie(lottie_json, speed=1, height=200, key="Banking")
 
 
 st.title("NOVA BANK ")
-st.header('Our Banking Interface')
-st.subheader('Welcome to our banking interface, thanks for trusting our services')
+st.header('Welcome to NOVA BANK, your trusted partners in secure and seamless dorllar transactions.')
+st.subheader('We’re here to help you manage your finances with ease. From tracking your balances to accessing personalized insights, everything you need is just a click away. Explore your Current and Savings dashboards, monitor your transactions, and stay in control — anytime, anywhere. Your money. Your control.')
 st.write('Use the icon to your left to navigate through ; ')
 st.write('# Withdrawal')
 st.write('# &')
