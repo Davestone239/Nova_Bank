@@ -25,4 +25,8 @@ st.write('# &')
 st.write('# Deposit')
 st.write('Within your current and savings account')
 
-
+col1, col2 = st.columns(2)
+with col1:
+    st.page_link("pages/savings_Account.py", label="💰 Savings Account", help="Manage your savings")
+with col2:
+    st.page_link("pages/current_account.py", label="🏦 Current Account", help="Manage your current account")
